@@ -1,0 +1,20 @@
+.some_div{
+    /* Внутренный отступ */
+    padding: 20px;
+   
+    /* Наружный отступ */
+    margin: 50px;
+    
+    /* Дополнительные стили  */
+    
+    border: 5px solid #FFA38F; 
+    text-align: center;
+}
+body {
+    background-color: blueviolet;
+    color: #fff;
+}
+
+ul li {
+    list-style: none;
+}
